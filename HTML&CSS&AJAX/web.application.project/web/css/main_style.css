@@ -1,0 +1,26 @@
+.class1{
+    width: 800px;
+    margin: 0 auto;
+}
+p{
+    font-size: 18px;
+    text-align: justify;
+    padding: 10px;
+}
+.center-img{
+    display: block;
+    margin: 0 auto;
+}
+
+h1{
+    color: #0088cc
+}
+
+.nice-box {
+    border-radius: 5px;
+    box-shadow: 3px 3px 4px #cccccc;
+}
+
+.green {
+    background-color: #dff0d8;
+}
